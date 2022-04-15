@@ -12,7 +12,7 @@ Instructions to download a raw dataset from Tatoeba are in this repo's code.
 The raw Tatoeba data comes in the form of sentence pairs in the language you want to learn and English. 
 If you are learning from a language other than English, this code will still work, but you may want to change some variable names.
 
-The input is a raw csv file of sentence pairs from Tatoeba's website.
+The input is a raw tsv file of sentence pairs from Tatoeba's website.
 The output is a cleaned csv file which is ready to import from your Desktop straight into the Anki app. The instructions for this final step are included at the end of the Python script.
 
 The four things this code does are:
