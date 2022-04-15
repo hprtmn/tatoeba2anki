@@ -4,6 +4,7 @@ This is a tool to wrangle raw Tatoeba data into a good quality Anki deck.
 The purpose of this tool is to allow linguists to quickly and easily create Anki decks that help them learn their target language more efficiently. 
 
 Learning a language through sentence pairs is a very effective technique. Many people are used to learning singular words or vocab lists, but the sentence pairs approach is helpful because it allows you to see each word in its semantic and grammatical context. You then start to build up a network of related words in your head, which makes them easier to remember.
+
 Tatoeba (tatoeba.org) is an open source project where linguists build up collections of parallel language sentences. It is a valuable source of language learning data.
 
 Instructions to download a raw dataset from Tatoeba are in this repo's code.
