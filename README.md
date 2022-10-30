@@ -23,5 +23,3 @@ The four things this code does are:
 - Filters the sentence pairs by their complexity
 
 Each of the above are explained in more detail in the code. 
-
-In addition to the Python script, this repo contains a Jupyter Notebook with the same code so you can experiment with each step and add more capability. The notebook contains a bit more documentation than the script.
